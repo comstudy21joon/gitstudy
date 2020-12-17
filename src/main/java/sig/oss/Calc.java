@@ -8,5 +8,9 @@ public class Calc {
 		r += d;
 		return r; 
 	} // 작업중...
+	public int dec(int d) {
+		r -= d;
+		return r;
+	}
 }
 ///
