@@ -13,5 +13,6 @@ public class Calc {
 		return r;
 	}
 	/// 로컬에서 수정 된 내용
+	// 서버에서 수정된 내용
 }
 ///
