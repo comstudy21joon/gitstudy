@@ -12,5 +12,6 @@ public class Calc {
 		r -= d;
 		return r;
 	}
+	// 서버에서 수정된 내용
 }
 ///
