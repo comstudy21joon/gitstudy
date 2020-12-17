@@ -12,5 +12,6 @@ public class Calc {
 		r -= d;
 		return r;
 	}
+	// beomjoon0369에서 수정 함.
 }
 ///
