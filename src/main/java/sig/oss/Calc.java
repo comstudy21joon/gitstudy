@@ -12,9 +12,5 @@ public class Calc {
 		r -= d;
 		return r;
 	}
-	/// 로컬에서 수정 된 내용
-	// 서버에서 수정된 내용
-	// beomjoon0369에서 수정.
-	// beomjoon0369에서 2차 수정.
 }
 ///
